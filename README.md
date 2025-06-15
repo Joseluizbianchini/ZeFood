@@ -65,9 +65,9 @@ npx expo install react-native-gesture-handler react-native-screens react-native-
 npm install @react-navigation/native
 
 # Arquivo .env na raiz do projeto 
-PORT=4000
-MONGO_URI=mongodb+srv://usuario:senha@cluster.mongodb.net/zefood
-JWT_SECRET=sua_chave_jwt_secreta
+PORT=5000
+MONGO_URI=LinkDaURLDoAtlas'https://www.mongodb.com/pt-br/products/platform/atlas-database'
+db_password=SenhaDoDB
 EMAIL_USER=seuemail@gmail.com
 EMAIL_PASS=sua_senha_de_app -> usar GMAIL e pegar a senha em https://myaccount.google.com/apppasswords
 
